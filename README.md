@@ -4,7 +4,7 @@
 
 #✉ About
 
-An app where you can save your favorite recipes 🥗🍛.
+An app where you can save and share your favorite recipes 🥗🍛.
 
 #🌆 GIFs and images
 
