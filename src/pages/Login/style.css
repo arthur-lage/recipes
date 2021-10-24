@@ -69,7 +69,7 @@ body {
 }
 
 .login-btn:hover {
-  background: rgb(209, 228, 233);
+  background: rgb(222, 230, 231);
 }
 
 .login-footer {
@@ -137,4 +137,20 @@ body {
   .login-footer-paragraph {
     font-size: 16px;
   }
+}
+
+@media (max-width: 320px) {
+    .login-btn {
+        width: 275px;
+        font-size: 16px;
+    }
+
+    .login-btn img {
+        width: 28px;
+        height: 28px;
+    }
+
+    .login-footer-paragraph{
+        font-size: 14px;
+    }
 }
